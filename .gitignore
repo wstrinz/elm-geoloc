@@ -11,3 +11,5 @@ build/
 
 # End of https://www.toptal.com/developers/gitignore/api/elm
 node_modules/
+
+get_icon.sh
