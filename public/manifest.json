@@ -1,15 +1,19 @@
 {
-  "short_name": "Elm App",
-  "name": "Create Elm App Sample",
+  "short_name": "Elm Geoloc",
+  "name": "Elm Geoloc App",
   "icons": [
     {
       "src": "1002646.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ],
   "start_url": "./index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "description": "A test PWA for elm geolocation",
+  "dir": "auto",
+  "orientation": "natural"
 }
